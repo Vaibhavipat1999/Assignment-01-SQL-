@@ -1,34 +1,3 @@
-Create table customers 
-
-( 
-
-cnum number(4), 
-
-cname varchar2(10), 
-
-city varchar2(10), 
-
-rating number(4), 
-
-snum number(4) 
-
-); 
-
-
-C) ORDERS 
-
-Onum number(4) 
-
-Amt number(7,2) 
-
-Odate date 
-
-Cnum number(4) 
-
-Snum number(4) 
-
-Answer: 
-
 Create table orders 
 
 ( 
